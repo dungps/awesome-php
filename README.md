@@ -3,10 +3,7 @@
 ## Table of Contents
 
 - [Database](#database)
-  - [Medoo](#Medoo)
   
-  
-  
-## Database
+### 1. Database
 
-### Medoo
+1. [Medoo](http://medoo.in/) - The lightest PHP database framework to accelerate development
